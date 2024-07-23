@@ -26,6 +26,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=si-aymen&show_icons=true&locale=en&layout=compact" alt="si-aymen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=si-aymen&show_icons=true&locale=en" alt="si-aymen" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-aymen&" alt="si-aymen" /></p>
+
+
 <br/>
 <hr/>
 
@@ -36,8 +41,4 @@
   
   <br/><br/><br/>
 </div>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-aymen&" alt="si-aymen" /></p>
-
 
