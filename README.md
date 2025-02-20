@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Assign](https://github.com/Si-aymen/Smart-assign)
+- 🔭 I’m currently working on [TNR Data](https://github.com/Si-aymen/TestData)
 
 - 🌱 I’m currently learning **DevOp**
 
-- 👯 I’m looking to collaborate on [CourZelo](https://github.com/Godyrex/Courzelo-Web-LMS)
-
-- 💬 Ask me about **Angular , SprinBoot**
+- 💬 Ask me about **Angular , SprinBoot, TNR**
 
 - 📫 How to reach me **aymen.rahali@esprit.tn**
 
